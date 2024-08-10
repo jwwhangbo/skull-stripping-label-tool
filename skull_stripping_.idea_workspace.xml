@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203a7c19-4922-41c7-8a50-cdfdbb5d0ae6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TUeT43mpdQbztlJtbMT0zb0lu3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda2/Scripts/conda.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JLK\PycharmProjects\skull_stripping" />
+      <recent name="C:\Users\JLK\AppData\Local\Programs\Python\Python38-32\Lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JLK\PycharmProjects\skull_stripping\commons" />
+      <recent name="C:\Users\JLK\PycharmProjects\skull_stripping" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.skull_stripping_matplotlib_embedded">
+    <configuration name="preprocessing_histogram_normalization" type="PythonConfigurationType" factoryName="Python">
+      <module name="skull_stripping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/commons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commons/preprocessing_histogram_normalization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="skull_stripping_matplotlib_embedded" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="skull_stripping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\JLK\.conda\envs\intern\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skull_stripping_matplotlib_embedded.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tk_mpb_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="skull_stripping" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\JLK\.conda\envs\intern\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tk_mpb_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.preprocessing_histogram_normalization" />
+      <item itemvalue="Python.tk_mpb_example" />
+      <item itemvalue="Python.skull_stripping_matplotlib_embedded" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.skull_stripping_matplotlib_embedded" />
+        <item itemvalue="Python.tk_mpb_example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203a7c19-4922-41c7-8a50-cdfdbb5d0ae6" name="Default Changelist" comment="" />
+      <created>1573519105747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573519105747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Inspections" timestamp="1577318911215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Inspections/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577318911215" />
+    <state width="814" height="912" key="GridCell.Tab.0.bottom" timestamp="1577950365896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="814" height="912" key="GridCell.Tab.0.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577950365896" />
+    <state width="814" height="912" key="GridCell.Tab.0.center" timestamp="1577950365896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="814" height="912" key="GridCell.Tab.0.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577950365896" />
+    <state width="814" height="912" key="GridCell.Tab.0.left" timestamp="1577950365896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="814" height="912" key="GridCell.Tab.0.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577950365896" />
+    <state width="814" height="912" key="GridCell.Tab.0.right" timestamp="1577950365896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="814" height="912" key="GridCell.Tab.0.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577950365896" />
+    <state width="1877" height="230" key="GridCell.Tab.1.bottom" timestamp="1577437272772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.1.bottom/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577437272772" />
+    <state width="1877" height="230" key="GridCell.Tab.1.center" timestamp="1577437272772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.1.center/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577437272772" />
+    <state width="1877" height="230" key="GridCell.Tab.1.left" timestamp="1577437272772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.1.left/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577437272772" />
+    <state width="1877" height="230" key="GridCell.Tab.1.right" timestamp="1577437272772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="230" key="GridCell.Tab.1.right/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1577437272772" />
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578295186109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1578295186109" />
+  </component>
+</project>
